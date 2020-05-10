@@ -1,0 +1,6 @@
+module Pods_VehicleServices {
+  umbrella header "Pods-VehicleServices-umbrella.h"
+
+  export *
+  module * { export * }
+}
