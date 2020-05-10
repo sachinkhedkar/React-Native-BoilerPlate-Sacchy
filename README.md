@@ -1,5 +1,14 @@
 # React-Native-BoilerPlate-Sacchy
 
+For Use :
+
+Just Clone the repository
+run npm install on root directory
+navigate to ios folder and run command pod install
+
+Run commnad react-native run-android for android.
+Run command react-native run-ios for IOS.
+
 #Environment and React version info
 
 
